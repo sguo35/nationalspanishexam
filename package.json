@@ -1,0 +1,16 @@
+{
+  "name": "nationalspanishexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^2.0.0",
+    "input-event": "^1.2.2",
+    "robotjs": "^0.4.7"
+  }
+}
